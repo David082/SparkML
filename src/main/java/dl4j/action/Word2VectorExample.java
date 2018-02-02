@@ -19,7 +19,6 @@ public class Word2VectorExample {
 
     public static void main(String[] args) throws IOException {
 
-
         // String filePath = new ClassPathResource("data/tlbb_t.txt").getFile().getAbsolutePath();
 
         log.info("Load & Vectorize Sentences....");
